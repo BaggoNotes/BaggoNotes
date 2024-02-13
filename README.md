@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BaggoNotes
-- 👀 I’m interested in music programming, VG programming.
-- 🌱 I’m currently learning Famitracker & Python.
-- 💞️ I’m looking to collaborate on music/FX requests for video games.
+- 👀 I’m a Wwise Guy, I live and breathe audio!
+- 🌱 I’m currently rsearching the Doppler effect.
+- 💞️ Video games inspire me, as do your creative ideas towards making one!
 - 📫 How to reach me: jbernard1241@gmail.com - jwbernard@icloud.com
 
 <!---
